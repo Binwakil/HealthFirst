@@ -6,3 +6,26 @@ This project covers a responsive and progressive android-based app that allows d
 For the limitation, the project is faced with quite a few restrictions such as the system will only cover above mention features.
 
 
+3.4.2 FUNCTIONAL REQUIREMENTS
+This refers to the capabilities the system provides from the user’s perspective. The functional requirements of the online shoe market are shown below
+A.	Input/output
+i.	The application shall allow user to register using email and password 
+ii.	The application shall authenticate user using login 
+iii.	The system shall allow user to view all it functionality.
+iv.	The application shall allow doctor to view clients.
+v.	The system shall allow doctor to consult the clients.
+vi.	The system shall allow doctor to post and comment on article
+vii.	The doctor can answer questions  
+viii.	The system shall allow doctor to provide health reports
+ix.	 The system shall allow clients to have consultation with the doctor
+x.	The system shall allow clients ask questions 
+xi.	The system shall allow to read and comment on articles 
+xii.	The system shall allow clients to view their health reports 
+xiii.	The system shall allow users to update their profiles
+B.	Processing
+i.	System should connect to firebase database and fetch the information requested
+ C. Error Handling
+i.	Should report any errors on duplicate primary keys.
+ii.	Should not accept any invalid input 
+iii.	Should report any data type mismatches any field on the forms.
+iv.	Should report any Invalid Login errors.
